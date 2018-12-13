@@ -29,7 +29,7 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
-  "An Argumentative Indian"
+  An Argumentative Indian
 
 
 # A list of keywords for your blog
@@ -42,15 +42,14 @@ logo:                  /assets/icons/icon.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                <Bhavesh> <Lalwani>
+  email:               <bhavesh.lalwani@rhsmith.umd.edu>
   # Used by `jekyll-seo-tag`:
-  # twitter:             <username>
+  # twitter:             <bhaveshlalwani>
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             >
   © 2018. All rights reserved.
-  Open `_config.yml` to edit this text.
 
 # Add links to the footer.
 # Typically you'll want to link to your impress, cookies or privacy policy, etc.
