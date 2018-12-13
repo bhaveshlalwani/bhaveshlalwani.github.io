@@ -24,11 +24,11 @@ title:                 Bhavesh Lalwani
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  An Argumentative Indian
+  An Argumentative Indianc
 
 # A shorter description for the sidebar.
 tagline:               >
-  An Argumentative Indian
+  An Argumentative Indianc
 
 # A list of keywords for your blog
 keywords:              []
@@ -284,12 +284,12 @@ plugins:
 #   publisher:           <id>
 #   admins:              <id>
 
-# Used on index and about sites
-# social:
-#   name:                <firstname> <lastname>
-#   links:
-#     - https://twitter.com/bhaveshlalwani
-#     - https://github.com/bhaveshlalwani
+ Used on index and about sites
+ social:
+ name:                <Bhavesh> <Lalwani>
+ links:
+   - https://twitter.com/bhaveshlalwani
+   - https://github.com/bhaveshlalwani
 
 
 # Other Plugins
