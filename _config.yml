@@ -107,7 +107,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Curious Indian interested in Analytics, Economics and Sports"
   location         : "Washington D.C"
-  email            :"bhavesh.lalwani@rhsmith.umd.edu"
+  email            : "bhavesh.lalwani@rhsmith.umd.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
