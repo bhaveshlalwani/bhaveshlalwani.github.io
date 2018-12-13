@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Hello World!"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Bhavesh Lalwani"
+description              : "A sneak peek into Bhavesh's curious mind!"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -103,11 +103,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Bhavesh Lalwani"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Curious Indian interested in Analytics, Economics and Sports"
+  location         : "Washington D.C"
+  email            :"bhavesh.lalwani@rhsmith.umd.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -117,10 +117,10 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
+      # url: "https://twitter.com/bhaveshlalwani"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      # url: "https://www.linkedin.com/in/bhavesh-lalwani/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
@@ -290,3 +290,14 @@ defaults:
       comments: # true
       share: true
       related: true
+# _pages
+- scope:
+    path: ""
+    type: posts
+  values:
+    layout: single
+    author_profile: true
+    read_time: true
+    comments: # true
+    share: true
+    related: true
