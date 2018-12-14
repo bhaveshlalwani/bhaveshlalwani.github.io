@@ -112,7 +112,7 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
-    - label: "Website"
+    - label: "LinkedIN"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/bhavesh-lalwani/"
     - label: "Twitter"
